@@ -23,11 +23,16 @@ BLEVE incidents can cause severe industrial accidents. This project applies mach
 - Statsmodels
 
 # Project-Structure
-notebooks/ \n
-src/ \n
-outputs/ \n
-report/ \n
-requirements.txt \n
+notebooks/
+
+src/
+
+outputs/
+
+report/
+
+requirements.txt
+
 README.md
 
 # How to Run
