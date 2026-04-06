@@ -47,4 +47,5 @@ outputs/prediction.csv
 
 # Author
 Minh Huan Huynh
+
 Project from the Machine Learning Unit (Bachelor of Computing) at Curtin University 
