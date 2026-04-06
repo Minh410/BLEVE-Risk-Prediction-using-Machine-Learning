@@ -14,20 +14,20 @@ BLEVE incidents can cause severe industrial accidents. This project applies mach
 - Reproducible workflow
 
 # Tech Stack
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Seaborn
-Statsmodels
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Statsmodels
 
 # Project-Structure
-notebooks/
-src/
-outputs/
-report/
-requirements.txt
+notebooks/ \n
+src/ \n
+outputs/ \n
+report/ \n
+requirements.txt \n
 README.md
 
 # How to Run
